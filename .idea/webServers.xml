@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f219815c-9d0d-4eed-8be3-48fe586e28fe" name="a" url="git@github.com:NoLifeCodes/ETTERNAPAUSER.git">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
